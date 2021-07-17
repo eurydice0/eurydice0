@@ -1,4 +1,5 @@
 ### Hi there 👋
+<--
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning JS / NextJS
@@ -8,7 +9,7 @@
 📫 How to reach me:...
 ⚡ Fun fact: I love jokes
 -->
-<br><br>
+
 
 
 
