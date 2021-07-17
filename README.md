@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<31yjkb6yid7i3vo2wzgb5lh33pbq>)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yjkb6yid7i3vo2wzgb5lh33pbq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
