@@ -4,10 +4,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaheejo&count_bg=%23DDDFDB&title_bg=%23E58EBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 💡 Interests
- Web skills(ex. JS, React)<br>
- AI (Deep Learning)<br>
- Leadership<br>
- Startup
+ `Web skills(ex. JS, React)`<br>
+ `AI (Deep Learning)`<br>
+ `Leadership`<br>
+ `Startup`
 
 ### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eurydice0&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
