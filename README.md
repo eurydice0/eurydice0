@@ -1,21 +1,14 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
+# Hello World 👋
 
 ### <div align="center">Front-End Developer</div>  
   
-
 - FE Web skills  
-  
 
 - AI (ML, DL, NLP)  
-  
 
 - Startup  
-  
 
 - Agile, Leadership
-  
-  
 
 <br/>  
 
@@ -86,24 +79,23 @@
 <br/>  
 
 
-## Github Stats  
-  
+## Github Stats 
 
+### <div align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eurydice0&theme=dracula&hide_border=true)](https://git.io/streak-stats)</div>
+ 
 <br/>  
 
 
-## Recent Blog Posts  
+## Coding with music
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31yjkb6yid7i3vo2wzgb5lh33pbq&cover_image=false&theme=default&bar_color=a31fe0&bar_color_cover=true" /></div>  
 
-<br/>  
-
-  
+<br/> 
 
 <br/>  
 
@@ -111,4 +103,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
