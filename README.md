@@ -5,11 +5,11 @@
 
 ### <div align="center">Front-End Developer</div>  
   
-- FE Web skills  
+- Awesome FE Web-skills  
 
 - AI (ML, DL, NLP)  
 
-- Startup  
+- Startup Business
 
 - Agile, Leadership
 
