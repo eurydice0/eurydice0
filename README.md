@@ -63,7 +63,7 @@
 <br/>  
 
 
-## Connect with me  
+##  <div align="center"> Connect with me  
 <div align="center">
 <a href="https://github.com/eurydice0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -77,22 +77,23 @@
 </div>  
   
 
-<br/>  
+ 
 
 
-## Github Stats 
+## <div align="center"> Github Stats 
 
 ### <div align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eurydice0&theme=dracula&hide_border=true)](https://git.io/streak-stats)</div>
  
 <br/>  
 
 
-## Coding with music🎧
+## <div align="center"> Coding with music🎧
 <!-- BLOG-POST-LIST:START -->  
-
+<div align="center">
 <!-- BLOG-POST-LIST:END -->   
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yjkb6yid7i3vo2wzgb5lh33pbq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yjkb6yid7i3vo2wzgb5lh33pbq&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/> 
 
 <br/>  
