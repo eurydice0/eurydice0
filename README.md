@@ -5,7 +5,7 @@
 
 ### <div align="center">Front-End Developer</div>  
   
-- Awesome FE Web-skills  
+- FE Web-skills  
 
 - AI (ML, DL, NLP)  
 
