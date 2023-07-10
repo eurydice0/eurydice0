@@ -1,4 +1,4 @@
-### <div align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feurydice0&count_bg=%233479D3&title_bg=%23000000&icon=googleadsense.svg&icon_color=%233479D3&title=Profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
+### <div align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feurydice&count_bg=%23943ADD&title_bg=%23C198D7&icon=visualstudio.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
  </div> 
  
 # Hello World 👋
