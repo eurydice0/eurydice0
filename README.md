@@ -150,21 +150,6 @@ Key areas:
 
 ---
 
-### PPDB Online
-
-A web-based student registration system developed to support the online admission process.
-
-**Focus:** Web Development · UI Implementation · Application Workflow
-
----
-
-### Android Reporting Application
-
-An Android application designed to support reporting workflows related to violence against women.
-
-**Focus:** UI/UX Design · Mobile Application Interface · Application Workflow
-
----
 
 ## 🧠 Areas of Interest
 
