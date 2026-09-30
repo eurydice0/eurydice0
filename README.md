@@ -4,7 +4,7 @@
 
 I’m a software developer focused on building practical, maintainable, and user-oriented applications.
 
-My interests and hands-on experience span **web development, software testing, IT systems, and AI-assisted development**. I enjoy working across different stages of the development process — from designing interfaces and implementing application logic to testing, debugging, troubleshooting, and improving existing systems.
+My interests and hands-on experience span **web development, software testing, IT systems, and AI-assisted development**. I enjoy working across different stages of the development process from designing interfaces and implementing application logic to testing, debugging, troubleshooting, and improving existing systems.
 
 I’m also exploring how **local LLMs, AI agents, and modern developer tools** can be integrated into everyday software engineering workflows.
 
@@ -110,7 +110,7 @@ AI Agents
 
 I experiment with locally hosted models and agent-based tools to understand how LLMs can interact with applications, tools, APIs, and development environments.
 
-My focus is not only on using AI, but also on understanding the **technical workflow behind it** — from running models locally and configuring tools to connecting APIs and integrating AI into development processes.
+My focus is not only on using AI, but also on understanding the **technical workflow behind it**  from running models locally and configuring tools to connecting APIs and integrating AI into development processes.
 
 ---
 
