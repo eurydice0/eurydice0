@@ -97,7 +97,6 @@ AI & LLM
 ├── LLM APIs
 ├── API Gateways
 ├── AI-assisted Development
-├── Prompt Engineering
 └── AI Automation
 
 AI Agents
