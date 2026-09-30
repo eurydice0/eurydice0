@@ -1,102 +1,209 @@
-### <div align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feurydice&count_bg=%233479D3&title__bg=%23000000&icon=googleadsense.svg&icon_color=%233479D3&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
- </div> 
- 
-# Hello World 👋
+# Hi, I'm Rio 👋
 
-### <div align="center">Front-End Developer</div>  
-  
-- FE Web-skills  
+### Junior Software Developer · Front-End · IT
 
-- AI (ML, DL, NLP)  
+I'm a fresh graduate in **Information Systems** with hands-on experience building web applications, testing software, and supporting IT infrastructure.
 
-- Startup Business
+I enjoy turning ideas into functional software — from designing interfaces and developing web applications to testing application logic and troubleshooting technical problems.
 
-- Agile, Leadership
+Currently exploring **AI-assisted development, local LLMs, software testing, and modern web development workflows.**
 
-<br/>  
+---
 
+## 🛠️ Tech Stack
 
-## <div align="center"> My Skill Set  
-<table><tr><td valign="top" width="33%">
+### Languages & Web
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
 
+### Frameworks & Libraries
 
-### Programming Languange  
-<div align="center">    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />      
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
- 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap" />
+</p>
 
-</td><td valign="top" width="33%">
+### Database & Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,bash" />
+</p>
 
+### AI & Development Tools
 
-### Frameworks & Databases
-<div align="center">    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-</td><td valign="top" width="33%">
+* Local LLM setup & AI-assisted development
+* API / AI Gateway experimentation
+* Prompt-based development workflows
+* Exploring AI tools for software engineering
 
+---
 
+## 💻 What I Work With
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-</div>
+```text
+Web Development
+├── React
+├── Next.js
+├── JavaScript
+├── PHP
+└── Laravel
 
-</td></tr></table>  
+Software Engineering
+├── Unit Testing
+├── Jest
+├── Debugging
+├── Git / GitHub
+└── Agile workflow
 
-<br/>  
+IT & Infrastructure
+├── PC Hardware Maintenance
+├── OS Installation
+├── Network Troubleshooting
+├── Printer Troubleshooting
+└── Server / File Management
 
+AI
+├── Local LLM
+├── AI-assisted Development
+├── API / Gateway Setup
+└── Prompt Engineering
+```
 
-##  <div align="center"> Connect with me  
-<div align="center">
-<a href="https://github.com/eurydice0" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+---
+
+## 🚀 Featured Experience
+
+### Software Development
+
+Built and worked on several web and application projects, including:
+
+* **Web-based Sales Management System**
+
+  * React / Next.js
+  * Transaction and order management
+  * Local data persistence
+  * Unit testing with Jest
+
+* **PPDB Online**
+
+  * Web-based student registration system
+  * Front-end development
+  * Application workflow implementation
+
+* **Android Reporting Application**
+
+  * UI/UX design
+  * Application interface development
+  * Government-related reporting workflow
+
+### IT Support & Infrastructure
+
+During my internship at **PDAM Tirta Pakuan Bogor**, I worked with the Hardware & Network team and handled:
+
+* PC hardware maintenance and upgrades
+* Operating system installation
+* Application troubleshooting
+* Printer troubleshooting
+* File transfer to server environments
+* Basic network troubleshooting
+* Assisting employees with technical and data-related issues
+
+---
+
+## 🧪 Software Testing
+
+One of my academic projects focused on:
+
+> **Unit Testing Implementation on a Web-Based Sales Transaction Management System**
+
+Technologies used:
+
+* Next.js
+* React
+* JavaScript
+* Jest
+* Local Storage
+* White-box testing
+* Cyclomatic complexity
+* Statement, branch, and path coverage
+
+The project helped me understand how testing can be integrated into the development process rather than treated as a final step.
+
+---
+
+## 🤖 Currently Exploring
+
+```text
+AI × Software Engineering
+
+├── Local LLM
+├── AI Coding Assistants
+├── API Gateways
+├── Prompt Engineering
+├── AI-assisted Development
+└── Developer Automation
+```
+
+I'm interested in how AI can improve the way software is designed, developed, tested, and maintained — while still understanding the code and engineering decisions behind it.
+
+---
+
+## 📌 What I'm Looking For
+
+I'm currently open to opportunities as a:
+
+* Junior Software Developer
+* Junior Front-End Developer
+* Software Engineer
+* QA / Software Tester
+* IT / Technical Support
+
+I'm especially interested in environments where I can contribute to real projects, learn from experienced engineers, and continue developing my software engineering skills.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eurydice0&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurydice0&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🎧 Currently Listening To
+
+<p align="center">
+
+<a href="https://open.spotify.com/">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yjkb6yid7i3vo2wzgb5lh33pbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </a>
-<a href="https://www.facebook.com" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/eurydice0">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://instagram.com/lie20__" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
- 
+<a href="https://instagram.com/lie20__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
+</p>
 
-## <div align="center"> Github Stats 
+---
 
-### <div align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eurydice0&theme=dracula&hide_border=true)](https://git.io/streak-stats)</div>
- 
-<br/>  
-
-
-## <div align="center"> What i'am listening to🎧
-<!-- BLOG-POST-LIST:START -->  
-<div align="center">
-<!-- BLOG-POST-LIST:END -->   
- 
-<br/>
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yjkb6yid7i3vo2wzgb5lh33pbq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
-<br/> 
-
-
-<div align="center"></div>
-<br />
-
-----
-</div>
+<p align="center">
+  <i>Building, learning, testing, and shipping.</i>
+</p>
