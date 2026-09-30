@@ -1,169 +1,205 @@
 # Hi, I'm Rio 👋
 
-### Software Developer · Front-End · IT
+### Software Developer · Web Development · AI & IT
 
-I'm a fresh graduate in **Information Systems** with hands-on experience building web applications, testing software, and supporting IT infrastructure.
+I’m a software developer focused on building practical, maintainable, and user-oriented applications.
 
-I enjoy turning ideas into functional software — from designing interfaces and developing web applications to testing application logic and troubleshooting technical problems.
+My interests and hands-on experience span **web development, software testing, IT systems, and AI-assisted development**. I enjoy working across different stages of the development process — from designing interfaces and implementing application logic to testing, debugging, troubleshooting, and improving existing systems.
 
-Currently exploring **AI-assisted development, local LLMs, software testing, and modern web development workflows.**
+I’m also exploring how **local LLMs, AI agents, and modern developer tools** can be integrated into everyday software engineering workflows.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Web
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap,nodejs" />
 </p>
 
-### Database & Tools
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### AI & Development Tools
+### Development & System Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,bash" />
 </p>
 
-* Local LLM setup & AI-assisted development
-* API / AI Gateway experimentation
-* Prompt-based development workflows
-* Exploring AI tools for software engineering
+### AI & LLM Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=ollama" />
+</p>
+
+**Local AI / Agent Tools**
+
+`Ollama` · `Hermes` · `OpenClaw` · `Local LLM` · `LLM APIs` · `API Gateways`
 
 ---
 
-## 💻 What I Work With
+## 💻 Software Development
+
+I work primarily with web technologies and enjoy building applications from both the **interface and engineering perspective**.
 
 ```text
 Web Development
-├── React
-├── Next.js
+├── Front-End Development
+├── React / Next.js
 ├── JavaScript
-├── PHP
-└── Laravel
-
-Software Engineering
-├── Unit Testing
-├── Jest
-├── Debugging
-├── Git / GitHub
-└── Agile workflow
-
-IT & Infrastructure
-├── PC Hardware Maintenance
-├── OS Installation
-├── Network Troubleshooting
-├── Printer Troubleshooting
-└── Server / File Management
-
-AI
-├── Local LLM
-├── AI-assisted Development
-├── API / Gateway Setup
-└── Prompt Engineering
+├── PHP / Laravel
+├── Responsive UI
+├── API Integration
+└── Application Logic
 ```
 
----
-
-## 🚀 Featured Experience
-
-### Software Development
-
-Built and worked on several web and application projects, including:
-
-* **Web-based Sales Management System**
-
-  * React / Next.js
-  * Transaction and order management
-  * Local data persistence
-  * Unit testing with Jest
-
-* **PPDB Online**
-
-  * Web-based student registration system
-  * Front-end development
-  * Application workflow implementation
-
-* **Android Reporting Application**
-
-  * UI/UX design
-  * Application interface development
-  * Government-related reporting workflow
-
-### IT Support & Infrastructure
-
-During my internship at **PDAM Tirta Pakuan Bogor**, I worked with the Hardware & Network team and handled:
-
-* PC hardware maintenance and upgrades
-* Operating system installation
-* Application troubleshooting
-* Printer troubleshooting
-* File transfer to server environments
-* Basic network troubleshooting
-* Assisting employees with technical and data-related issues
+I’m interested in building software that is not only functional, but also easier to understand, test, debug, and maintain.
 
 ---
 
 ## 🧪 Software Testing
 
-One of my academic projects focused on:
-
-> **Unit Testing Implementation on a Web-Based Sales Transaction Management System**
-
-Technologies used:
-
-* Next.js
-* React
-* JavaScript
-* Jest
-* Local Storage
-* White-box testing
-* Cyclomatic complexity
-* Statement, branch, and path coverage
-
-The project helped me understand how testing can be integrated into the development process rather than treated as a final step.
-
----
-
-## 🤖 Currently Exploring
+Testing is an important part of my development workflow, particularly when working with application logic and business processes.
 
 ```text
-AI × Software Engineering
-
-├── Local LLM
-├── AI Coding Assistants
-├── API Gateways
-├── Prompt Engineering
-├── AI-assisted Development
-└── Developer Automation
+Testing
+├── Unit Testing
+├── Jest
+├── White-Box Testing
+├── Test Case Design
+├── Debugging
+├── Code Coverage
+└── Application Logic Testing
 ```
 
-I'm interested in how AI can improve the way software is designed, developed, tested, and maintained — while still understanding the code and engineering decisions behind it.
+My academic development work involved implementing **unit testing with Jest** on a web-based sales transaction management system, including testing application logic, branches, statements, and independent paths.
 
 ---
 
-## 📌 What I'm Looking For
+## 🤖 AI, LLM & Agentic Development
 
-I'm currently open to opportunities as a:
+I’m exploring AI as a **software engineering tool**, with a particular interest in local LLMs, AI agents, automation, and developer workflows.
 
-* Junior Software Developer
-* Junior Front-End Developer
-* Software Engineer
-* QA / Software Tester
-* IT / Technical Support
+```text
+AI & LLM
+├── Local LLM
+├── Ollama
+├── LLM APIs
+├── API Gateways
+├── AI-assisted Development
+├── Prompt Engineering
+└── AI Automation
 
-I'm especially interested in environments where I can contribute to real projects, learn from experienced engineers, and continue developing my software engineering skills.
+AI Agents
+├── Hermes
+├── OpenClaw
+├── Agentic Workflows
+├── Tool-based Workflows
+└── Local AI Agents
+```
+
+I experiment with locally hosted models and agent-based tools to understand how LLMs can interact with applications, tools, APIs, and development environments.
+
+My focus is not only on using AI, but also on understanding the **technical workflow behind it** — from running models locally and configuring tools to connecting APIs and integrating AI into development processes.
+
+---
+
+## 🖥️ IT & Systems
+
+My software development experience is complemented by hands-on exposure to computer hardware, operating systems, networking, and technical troubleshooting.
+
+```text
+IT & Systems
+├── Hardware Maintenance
+├── PC Upgrades
+├── OS Installation
+├── Application Troubleshooting
+├── Network Troubleshooting
+├── Printer Troubleshooting
+├── Server / File Management
+└── Basic System Administration
+```
+
+---
+
+## 🚀 Projects
+
+### Web-Based Sales Management System
+
+A web application for managing products, orders, transactions, and sales information.
+
+**Stack:** React · Next.js · JavaScript · Local Storage · Jest
+
+Key areas:
+
+* Product and category management
+* Order processing
+* Transaction management
+* Sales dashboard
+* Application logic
+* Unit testing
+
+---
+
+### PPDB Online
+
+A web-based student registration system developed to support the online admission process.
+
+**Focus:** Web Development · UI Implementation · Application Workflow
+
+---
+
+### Android Reporting Application
+
+An Android application designed to support reporting workflows related to violence against women.
+
+**Focus:** UI/UX Design · Mobile Application Interface · Application Workflow
+
+---
+
+## 🧠 Areas of Interest
+
+```text
+Software Engineering
+├── Web Applications
+├── Software Testing
+├── Application Architecture
+├── Debugging & Troubleshooting
+└── Developer Tooling
+
+Artificial Intelligence
+├── Local LLM
+├── AI Agents
+├── LLM Integration
+├── AI-assisted Development
+└── Developer Automation
+
+Systems
+├── Linux
+├── Networking
+├── Hardware
+└── System Administration
+```
+
+---
+
+## 🔧 Development Philosophy
+
+> **Build it. Understand it. Test it. Improve it.**
+
+I believe good software is not only about making something work, but also about understanding **why it works, how it can fail, and how it can be improved.**
+
+I value practical implementation, continuous learning, and understanding the technology behind the tools I use.
 
 ---
 
@@ -176,19 +212,7 @@ I'm especially interested in environments where I can contribute to real project
 
 ---
 
-## 🎧 Currently Listening To
-
-<p align="center">
-
-<a href="https://open.spotify.com/">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yjkb6yid7i3vo2wzgb5lh33pbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</a>
-
-</p>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="left">
 
@@ -205,5 +229,5 @@ I'm especially interested in environments where I can contribute to real project
 ---
 
 <p align="center">
-  <i>Building, learning, testing, and shipping.</i>
+<i>Building software, exploring technology, and continuously learning.</i>
 </p>
