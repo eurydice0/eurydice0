@@ -1,4 +1,4 @@
-# Hi, I'm Rio 👋
+# Hi, I'm Rio  👋
 
 ### Software Developer · Web Development · AI & IT
 
