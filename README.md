@@ -33,7 +33,7 @@ I’m also exploring how **local LLMs, AI agents, and modern developer tools** c
 ### Development & System Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash" />
 </p>
 
 ### AI & LLM Tools
