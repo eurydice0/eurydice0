@@ -42,7 +42,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-%234D4D4D?style=flat-square&logo=windowsterminal&logoColor=ffffff)
 
-#### **AI Engineering & Local Environments**
+#### **AI Tools & Local Environments**
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%23FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
 ![Ollama](https://img.shields.io/badge/-Ollama-%23000000?style=flat-square&logo=ollama&logoColor=ffffff)
 ![Hermes](https://img.shields.io/badge/-Hermes--Agent-%235A4FCF?style=flat-square)
