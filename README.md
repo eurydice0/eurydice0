@@ -1,217 +1,70 @@
-# Hi, I'm Rio  👋
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙞𝙤 👋
 
-### Software Developer · Web Development · AI & IT
+[![](https://img.shields.io/badge/-@eurydice0-%23181717?style=flat-square&logo=github)](https://github.com/eurydice0)
+[![](https://img.shields.io/badge/-@noir__21-%23E4405F?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/noir__21)
 
-I’m a software developer focused on building practical, maintainable, and user-oriented applications.
+𝑰 ❤️ 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 & 𝑨𝑰!
 
-My interests and hands-on experience span **web development, software testing, IT systems, and AI-assisted development**. I enjoy working across different stages of the development process from designing interfaces and implementing application logic to testing, debugging, troubleshooting, and improving existing systems.
+💻 𝑨 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕, 𝒕𝒆𝒔𝒕𝒊𝒏𝒈, 𝒂𝒏𝒅 𝒂𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰.
 
-I’m also exploring how **local LLMs, AI agents, and modern developer tools** can be integrated into everyday software engineering workflows.
+🧪 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙏𝙚𝙨𝙩𝙞𝙣𝙜 | 🤖 𝙇𝙤𝙘𝙖𝙡 𝙇𝙇𝙈𝙨 & 𝘼𝙄 𝘼𝙜𝙚𝙣𝙩𝙨 | 🌐 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝒕 | 🖥️ 𝙄𝙏 & 𝙎𝙮𝙨𝙩𝙚𝙢𝙨
 
----
+💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈, 𝒖𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈, 𝒕𝒆𝒔𝒕𝒊𝒏𝒈, 𝒂𝒏𝒅 𝒊𝒎𝒑𝒓𝒐𝒗𝒊𝒏𝒈 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆.
 
-## 🛠️ Tech Stack
+## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-### Languages
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
-</p>
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 
-### Frameworks & Libraries
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=ffffff)
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-%233C9CD7?style=flat-square&logo=phpunit&logoColor=ffffff)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap,nodejs" />
-</p>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)
 
-### Database
+![Ollama](https://img.shields.io/badge/-Ollama-%23000000?style=flat-square&logo=ollama&logoColor=ffffff)
+![Hermes](https://img.shields.io/badge/-Hermes-%23000000?style=flat-square)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-%23000000?style=flat-square)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+## 💻 𝙒𝙝𝙖𝙩 𝙄 𝘿𝙤
 
-### Development & System Tools
+### 🌐 Web Development & Engineering
+* Building web applications focusing on clean interface architecture and maintainable application logic.
+* Hands-on experience with **React, Next.js, JavaScript, PHP, and Laravel**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash" />
-</p>
+### 🧪 Software Testing & Quality Assurance
+* Emphasizing software reliability through **Unit Testing (Jest & PHPUnit via CLI ), Test Case Design**.
+* Analyzing code coverage, statement/branch testing, and independent logic paths.
 
-### AI & LLM Tools
+### 🤖 Local AI, LLMs & Agentic Workflows
+* Integrating **Local LLMs (Ollama)**, AI Agents (Hermes, OpenClaw and more), and API Gateways into developer environments.
+* Exploring tool-assisted workflows, local model hosting, and agentic AI automation.
 
-<p>
-<img src="https://skillicons.dev/icons?i=ollama" />
-</p>
+### 🖥️ IT Systems & Infrastructure
+* Practical troubleshooting in hardware maintenance, PC upgrades, OS configuration, networking, and system administration.
 
-**Local AI / Agent Tools**
+## 🚀 Featured Project
 
-`Ollama` · `Hermes` · `OpenClaw` · `Local LLM` · `LLM APIs` · `API Gateways`
+### 🛒 Web-Based Sales Management System
+A web application built to streamline product catalog management, order processing, and sales tracking.
+* **Stack:** React · Next.js · JavaScript · Jest
+* **Focus:** Logic implementation, transaction workflows, and unit testing coverage (CLI-driven test execution).
 
----
+## 𝗦𝘁𝗮𝘁𝘀
 
-## 💻 Software Development
-
-I work primarily with web technologies and enjoy building applications from both the **interface and engineering perspective**.
-
-```text
-Web Development
-├── Front-End Development
-├── React / Next.js
-├── JavaScript
-├── PHP / Laravel
-├── Responsive UI
-├── API Integration
-└── Application Logic
-```
-
-I’m interested in building software that is not only functional, but also easier to understand, test, debug, and maintain.
-
----
-
-## 🧪 Software Testing
-
-Testing is an important part of my development workflow, particularly when working with application logic and business processes.
-
-```text
-Testing
-├── Unit Testing
-├── Jest
-├── White-Box Testing
-├── Test Case Design
-├── Debugging
-├── Code Coverage
-└── Application Logic Testing
-```
-
-My academic development work involved implementing **unit testing with Jest** on a web-based sales transaction management system, including testing application logic, branches, statements, and independent paths.
-
----
-
-## 🤖 AI, LLM & Agentic Development
-
-I’m exploring AI as a **software engineering tool**, with a particular interest in local LLMs, AI agents, automation, and developer workflows.
-
-```text
-AI & LLM
-├── Local LLM
-├── Ollama
-├── LLM APIs
-├── API Gateways
-├── AI-assisted Development
-└── AI Automation
-
-AI Agents
-├── Hermes
-├── OpenClaw
-├── Agentic Workflows
-├── Tool-based Workflows
-└── Local AI Agents
-```
-
-I experiment with locally hosted models and agent-based tools to understand how LLMs can interact with applications, tools, APIs, and development environments.
-
-My focus is not only on using AI, but also on understanding the **technical workflow behind it**  from running models locally and configuring tools to connecting APIs and integrating AI into development processes.
-
----
-
-## 🖥️ IT & Systems
-
-My software development experience is complemented by hands-on exposure to computer hardware, operating systems, networking, and technical troubleshooting.
-
-```text
-IT & Systems
-├── Hardware Maintenance
-├── PC Upgrades
-├── OS Installation
-├── Application Troubleshooting
-├── Network Troubleshooting
-├── Printer Troubleshooting
-├── Server / File Management
-└── Basic System Administration
-```
-
----
-
-## 🚀 Projects
-
-### Web-Based Sales Management System
-
-A web application for managing products, orders, transactions, and sales information.
-
-**Stack:** React · Next.js · JavaScript · Local Storage · Jest
-
-Key areas:
-
-* Product and category management
-* Order processing
-* Transaction management
-* Sales dashboard
-* Application logic
-* Unit testing
-
----
-
-
-## 🧠 Areas of Interest
-
-```text
-Software Engineering
-├── Web Applications
-├── Software Testing
-├── Application Architecture
-├── Debugging & Troubleshooting
-└── Developer Tooling
-
-Artificial Intelligence
-├── Local LLM
-├── AI Agents
-├── LLM Integration
-├── AI-assisted Development
-└── Developer Automation
-
-Systems
-├── Linux
-├── Networking
-├── Hardware
-└── System Administration
-```
-
----
-
-## 🔧 Development Philosophy
-
-> **Build it. Understand it. Test it. Improve it.**
-
-I believe good software is not only about making something work, but also about understanding **why it works, how it can fail, and how it can be improved.**
-
-I value practical implementation, continuous learning, and understanding the technology behind the tools I use.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eurydice0&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurydice0&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="left">
-
-<a href="https://github.com/eurydice0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/noir__21">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-<i>Building software, exploring technology, and continuously learning.</i>
-</p>
+![eurydice0's github stats](https://github-readme-stats.vercel.app/api?username=eurydice0&show_icons=true&theme=dracula)
